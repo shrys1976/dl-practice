@@ -1,0 +1,6 @@
+.venv/
+.jupyter/
+.ipython/
+.python-version
+.vscode/
+.cursor/
