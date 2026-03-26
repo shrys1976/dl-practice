@@ -4,3 +4,4 @@
 .python-version
 .vscode/
 .cursor/
+model.pkl
