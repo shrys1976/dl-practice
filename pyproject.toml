@@ -9,4 +9,5 @@ dependencies = [
     "fastbook>=0.0.29",
     "gradio>=6.10.0",
     "nbdev>=3.0.12",
+    "timm>=1.0.26",
 ]
